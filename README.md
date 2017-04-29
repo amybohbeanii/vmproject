@@ -20,14 +20,17 @@ Virtual Memory is an important concept of an Operating System. To grasp the conc
 
 To compile the project from source, simply run `make` in the root directory.
 
-To run the program: ./virtmem npages nframes rand|fifo|custom scan|sort|focus
-
+To run the program: 
+```
+./virtmem npages nframes rand|fifo|custom scan|sort|focus
+```
 Examples to run the project:
-
+```
 ./virtmem 15 10 rand sort
-
+```
+```
 ./virtmem 15 10 fifo focus
-
+```
 ## Additional Libraries
 
 ## License 
