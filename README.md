@@ -12,7 +12,7 @@ Apurva Raman
 
 ## Description
 
-This student project was created as part of Olin College of Engineering’s Software Systems course. For more details on this project, see the final report.h
+This student project is created as part of Olin College of Engineering’s Software Systems course. For more details on this project, see the [final report](https://amybohbeanii.github.io/vmproject/).
 
 Virtual Memory is an important concept of an Operating System. To grasp the concept, our team decided to analyze the different components and techniques in VM. A comprehensive understanding of VM means knowing how virtual addresses are mapped to physical addresses. The concept is that virtual memory allows more memory to be used than physically available. The main component that allows this concept to work is the page table and the techniques are the various page replacement algorithms. 
 
